@@ -10,7 +10,7 @@
 }
 
 .qb-section {
-    width: 60vh;
+    width: 60vw;
     height: auto;
     padding-bottom: 20px;
 
@@ -39,6 +39,7 @@
     user-select: none;
 
     color: #FC7061;
+    transition: .5s color;
 }
 
 .qb-submit {
@@ -52,4 +53,14 @@
     color: white;
     border: 1px solid black;
     box-shadow: 9px 9px rgba(0, 0, 0, 0.4);
+}
+
+.clicked-right {
+    color: green;
+    font-weight: 900;
+}
+
+.clicked-wrong {
+    color: red;
+    font-weight: 900;
 }

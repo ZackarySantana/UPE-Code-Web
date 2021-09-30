@@ -1,0 +1,40 @@
+{
+    "questions": [
+        {
+            "question": "What is React?",
+            "answers": [
+                "A JS Framework",
+                "A fake thing",
+                "A reflex response",
+                "I have no idea"
+            ]
+        },
+        {
+            "question": "What is Reactttt?",
+            "answers": [
+                "A JS Frameworkkkk",
+                "A fake thingggg",
+                "A reflex responseeeee",
+                "I have no ideaaaaa"
+            ]
+        },
+        {
+            "question": "What is the presenters name",
+            "answers": [
+                "Zackary",
+                "Carlos",
+                "Eddie",
+                "Daniel"
+            ]
+        },
+        {
+            "question": "What program is this",
+            "answers": [
+                "Code",
+                "Make",
+                "Design",
+                "Infotech"
+            ]
+        }
+    ]
+}
